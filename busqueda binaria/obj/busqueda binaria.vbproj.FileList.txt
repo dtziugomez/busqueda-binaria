@@ -1,0 +1,10 @@
+bin\Debug\busqueda binaria.exe
+bin\Debug\busqueda binaria.pdb
+bin\Debug\busqueda binaria.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\busqueda_binaria.Form1.resources
+obj\Debug\busqueda_binaria.Resources.resources
+obj\Debug\busqueda binaria.vbproj.GenerateResource.Cache
+obj\Debug\busqueda binaria.exe
+obj\Debug\busqueda binaria.xml
+obj\Debug\busqueda binaria.pdb
